@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm srinu orsu</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-  <p align="right">  
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=developersrinu&show_icons=true&locale=en&layout=compact"
-        alt="developersrinu" />
+  <p align="center">  
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
 
 
