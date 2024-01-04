@@ -67,15 +67,8 @@ adding a twist to scoping**
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; justify-content: space-around;">
 
-    <h2>#REACT</h2>
-    <h2>#REDUX</h2>
-    <h2>#JAVASCRIPT</h2>
-    <h2>#BOOSTRAP</h2>
-    <h2>#HTML</h2>
-    <h2>#CSS</h2>
-    <h2>#NODE-JS</h2>
-    <h2>#MONOGODB</h2>
-    <h2>#GIT</h2>
+  <h1>REACT, REDUX, JAVASCRIPT, BOOSTRAP, HTML, CSS, NODE-JS, MONOGODB, GIT</h1>
+
 
 
 
